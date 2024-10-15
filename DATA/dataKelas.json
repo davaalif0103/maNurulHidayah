@@ -41,6 +41,13 @@
        "jumlahSiswaLelaki": "9",
        "jumlahSiswaPerempuan": "22",
        "totalSiswa": "31" 
+     },
+     {
+       "id": "7",
+       "tingkatKelas": "XII MIPA. 2",
+       "jumlahSiswaLelaki": "9",
+       "jumlahSiswaPerempuan": "22",
+       "totalSiswa": "31" 
      }
    ]
 }
